@@ -1,0 +1,22 @@
+.alert-btn  {
+  padding: 0.9em 2.1875em;
+  border: 0;
+  border-radius: 0.1875em;
+  background-color: #7066e0;
+  box-shadow: none;
+  color: #fff;
+  font-size: 1.125em;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.alert-btn:hover {
+  background-color: rgb(100.1092391304, 89.2777173913, 221.4222826087);
+}
+.alert-btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(115, 103, 240, 0.5);
+}
+.alert-btn::-moz-focus-inner {
+  border: 0;
+}
